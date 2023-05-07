@@ -1,0 +1,12 @@
+.pikachu{
+    
+    width: 150px;
+    background-color: black;
+    padding: 50px;
+}
+.potato{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 75px;
+    color: white;
+}
