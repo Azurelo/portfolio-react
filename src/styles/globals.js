@@ -31,6 +31,9 @@ const GlobalStyles = createGlobalStyle`
   li{
     list-style: none;
   }
+  img{
+    max-height: 150px;
+  }
 
 `;
 
